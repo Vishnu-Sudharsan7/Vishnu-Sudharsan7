@@ -8,7 +8,7 @@
 
 - 🏫: I'm a Decision Science Student.
 - 🔭: I’m currently working on many small ML projects.
-- 🌱: I’m currently learning Machine Learning and Data Visulaization. 🧠💻🤖
+- 🌱: I’m currently learning Machine Learning and Data Visualization. 🧠💻🤖
   
 <hr>
 <Br>
