@@ -7,8 +7,8 @@
 <h1>About Me! 😎</h1>
 
 - 🏫: I'm a Decision Science Student.
-- 🔭: I’m currently working on many small ML projects.
-- 🌱: I’m currently learning Machine Learning and Data Visualization. 🧠💻🤖
+- 🔭: I have completed my Intern as an Application Developer.
+- 🌱: I’m currently thrilled about working with product development. 🧠💻🤖
   
 <hr>
 <Br>
